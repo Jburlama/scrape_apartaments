@@ -17,3 +17,10 @@ the data extracted are separed into ***prices***, ***addresses***, ***descriptio
 To run the program is recommended to use a python virtualenviroment
 
 The main tool used for this project was [Seleniumbas](https://github.com/seleniumbase/SeleniumBase)
+
+# Demo
+
+https://github.com/user-attachments/assets/48e254dc-40bb-4cb2-98c2-41a3791c8287
+
+
+
